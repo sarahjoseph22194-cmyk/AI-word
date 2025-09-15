@@ -1,4 +1,3 @@
-# Project Title / Student Name
 
 Sarah Yousef , Text analyzer 
 
